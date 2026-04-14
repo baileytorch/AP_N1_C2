@@ -34,6 +34,11 @@ print()
 print(valor_booleano)
 print(type(valor_booleano))
 
+cadena_texto = 'Incluir comilla con caracter de escape \'...'
+cadena_texto_2 = 'Incluir comilla sin carcater de escape "'
+print(cadena_texto)
+print(cadena_texto_2)
+
 # CONCATENACIÓN de cadenas de texto
 saludo = 'Buen día querido '
 nombre = 'Erick Bailey'

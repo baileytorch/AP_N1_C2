@@ -1,6 +1,6 @@
-# Cada dato ingresado medainte input ES un TEXTO
+# Cada dato ingresado mediante input ES un TEXTO
 
-numero = input('Por favor, ingrese un númereo entero...')
+numero = input('Por favor, ingrese un número entero...')
 print(type(numero))
 print(numero)
 
